@@ -1,4 +1,7 @@
 # Tempo_model
+<p align="center">
+  <img src="image.png" alt="logo">
+</p>
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://susunghong.github.io/Tempo_model/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2503.14505)
 
